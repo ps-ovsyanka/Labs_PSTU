@@ -1,0 +1,14 @@
+C:\Users\Myp\source\repos\App\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\Myp\source\repos\App\Calculator\Debug\Calculator.ErrorForm.resources
+C:\Users\Myp\source\repos\App\Calculator\Debug\Calculator.MainForm.resources
+C:\Users\Myp\source\repos\App\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\psovs\source\repos\App\Calculator\Debug\Calculator.ErrorForm.resources
+C:\Users\psovs\source\repos\App\Calculator\Debug\Calculator.MainForm.resources
+C:\Users\psovs\source\repos\App\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\psovs\source\repos\App\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\psovs\source\repos\Calculator\Debug\Calculator.vcxprojAssemblyReference.cache
+C:\Users\psovs\source\repos\Calculator\Debug\Calculator.ErrorForm.resources
+C:\Users\psovs\source\repos\Calculator\Debug\Calculator.MainForm.resources
+C:\Users\psovs\source\repos\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\psovs\source\repos\Calculator\Debug\Calculator.exe
+C:\Users\psovs\source\repos\Calculator\Debug\Calculator.pdb

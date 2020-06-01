@@ -1,0 +1,8 @@
+﻿  ErrorForm.cpp
+  MainForm.cpp
+C:\Users\psovs\source\repos\Calculator\MainForm.h(1174,14): warning C4244: =: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\psovs\source\repos\Calculator\MainForm.h(1176,7): warning C4996: '_i64toa': This function or variable may be unsafe. Consider using _i64toa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Создание кода...
+  ErrorForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\psovs\source\repos\Calculator\Debug\Calculator.exe
