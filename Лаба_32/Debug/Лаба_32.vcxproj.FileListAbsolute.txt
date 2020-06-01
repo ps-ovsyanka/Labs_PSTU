@@ -1,0 +1,2 @@
+C:\Users\psovs\source\repos\Лаба_32\Debug\Решение задачи коммивояжера.exe
+C:\Users\psovs\source\repos\Лаба_32\Debug\Решение задачи коммивояжера.pdb

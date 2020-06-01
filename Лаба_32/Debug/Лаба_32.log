@@ -1,0 +1,62 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Лаба_32.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Graph.cpp
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(95,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(186,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(244,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(245,17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(285,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(315,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(332,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(344,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(355,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(366,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(377,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(399,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(400,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(405,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(406,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(408,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(409,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(415,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(415,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(426,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(427,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(438,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(439,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(441,55): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(441,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(444,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(444,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(560,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(563,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(578,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(580,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(595,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(596,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(641,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(642,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(650,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(656,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(660,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(676,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(678,25): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(678,13): warning C4309: инициализация: усечение константного значения
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(680,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(686,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(696,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(698,25): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(698,13): warning C4309: инициализация: усечение константного значения
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(700,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(705,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(714,27): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(714,15): warning C4309: инициализация: усечение константного значения
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(715,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(720,27): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(720,15): warning C4309: инициализация: усечение константного значения
+C:\Users\psovs\source\repos\Лаба_32\Graph.cpp(721,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+C:\Users\psovs\source\repos\Лаба_32\Main.cpp(11,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\psovs\source\repos\Лаба_32\Main.cpp(12,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Лаба_32.vcxproj -> C:\Users\psovs\source\repos\Лаба_32\Debug\Решение задачи коммивояжера.exe
